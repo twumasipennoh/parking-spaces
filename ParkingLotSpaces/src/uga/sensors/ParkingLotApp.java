@@ -1,11 +1,7 @@
 package uga.sensors;
 
 /**
- * A GUI application that displays a gallery of images based on
- * the results of a search query to the iTunes Search API. This 
- * class is the driver class for the GUI application. There are
- * different helper methods in the class to help set up the stage
- * for the application. 
+ * A GUI application that shows which parking spots are taken or not taken. 
  *
  * @author Twumasi Pennoh
  * @author Al Ameen Akindele
